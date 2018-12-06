@@ -1,6 +1,6 @@
-# EmptyWorld
-EmptyWorldを生成できるプラグイン
-PMMPで動作
+# EmptyWorldGenerator
+PMMPで動作するEmptyWorldを生成できるプラグイン
+
 
 ## 使用方法
  - /generate [作成したワールド名]
