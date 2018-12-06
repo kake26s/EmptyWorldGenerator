@@ -1,0 +1,7 @@
+name: EmptyWorldGenerator
+main: kake26s\generator\Core
+auther: kake26s
+version: 1.0.0
+api:
+- 3.0.0
+- 4.0.0
